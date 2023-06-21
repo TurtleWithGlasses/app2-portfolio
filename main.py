@@ -13,3 +13,5 @@ with col2:
     My name is Mehmet and I'm learning python.
     """
     st.info(content)
+
+st.write("Below, you can see info about my career..")
